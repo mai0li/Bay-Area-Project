@@ -43,11 +43,9 @@ Para entregar este projeto, vá a [sala de aula](https://classroom.udacity.com/n
 # Pergunta 1
 Escreva pelo menos duas perguntas que você acha que poderiam ser respondidas usando os dados.
 
-**Resposta**: 
+**Pergunta 1** - Quais cidades possuem maior atividade de viagens conforme o dia da semana?
 
-Pergunta 1 - Quais cidades possuem maior atividade de viagens conforme o dia da semana?
-
-Pergunta 2 - Quais as melhores regiões para dispor de anúncios conforme uso e quantidade de assinantes do serviço?
+**Pergunta 2** - Quais as melhores regiões para dispor de anúncios conforme uso e quantidade de assinantes do serviço?
 
 ## Usando visualizações para comunicar resultados em dados
 
